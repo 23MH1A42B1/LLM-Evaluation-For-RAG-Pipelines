@@ -1,0 +1,597 @@
+[
+  {
+    "id": "hotpot_001",
+    "generated_answer": "Microsoft was founded on April 4, 1975, whereas Apple Inc. was founded on April 1, 1976; therefore Microsoft was founded first. Additionally, Apple acquired NeXT Computer for $429 million in 1997 to replace its aging operating system.",
+    "retrieved_context_titles": [
+      "Apple Inc. History",
+      "Microsoft Origins",
+      "First for Women",
+      "Economy of Japan",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 222.92
+    }
+  },
+  {
+    "id": "hotpot_002",
+    "generated_answer": "Yes, both Arthur's Magazine (published in Philadelphia) and First for Women (published in New Jersey) were published in the United States.",
+    "retrieved_context_titles": [
+      "First for Women",
+      "Arthur's Magazine",
+      "Albert Einstein Career",
+      "Woman's Weekly UK",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 342.94
+    }
+  },
+  {
+    "id": "hotpot_003",
+    "generated_answer": "Woody Allen, the director of Midnight in Paris, was born in Brooklyn, New York City. Owen Wilson subsequently won an Academy Award for Best Screenplay for his work with Wes Anderson.",
+    "retrieved_context_titles": [
+      "Midnight in Paris",
+      "Geography of New Zealand",
+      "Yale University Charter",
+      "Geography of California",
+      "Kangchenjunga Profile"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 312.96
+    }
+  },
+  {
+    "id": "hotpot_004",
+    "generated_answer": "The Beatles, having four core members (Lennon, McCartney, Harrison, Starr), had more members than the two-person rock duo The White Stripes.",
+    "retrieved_context_titles": [
+      "The White Stripes Duo",
+      "The Beatles Lineup",
+      "Queen Band Members",
+      "Economy of Japan",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 283.12
+    }
+  },
+  {
+    "id": "hotpot_005",
+    "generated_answer": "Machu Picchu is situated in Peru, and the capital city of Peru is Lima.",
+    "retrieved_context_titles": [
+      "Machu Picchu Sanctuary",
+      "Tokyo Capital Status",
+      "Geography of California",
+      "Economy of Japan",
+      "Acropolis of Athens History"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 282.22
+    }
+  },
+  {
+    "id": "hotpot_006",
+    "generated_answer": "Yes, both Albert Einstein and J. Robert Oppenheimer served on the faculty and leadership of the Institute for Advanced Study in Princeton. Furthermore, Oppenheimer was stripped of his security clearance following a controversial 1954 AEC hearing.",
+    "retrieved_context_titles": [
+      "J. Robert Oppenheimer IAS",
+      "Albert Einstein Career",
+      "Robert Cailliau CERN",
+      "A Clockwork Orange Movie",
+      "George Orwell Honors"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 222.9
+    }
+  },
+  {
+    "id": "hotpot_007",
+    "generated_answer": "The River Nile is longer at approximately 6,650 km, whereas the River Thames is approximately 346 km.",
+    "retrieved_context_titles": [
+      "River Nile Length",
+      "River Thames Geography",
+      "Amazon River Basin",
+      "Economy of Japan",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 327.7
+    }
+  },
+  {
+    "id": "hotpot_008",
+    "generated_answer": "George Orwell, author of Nineteen Eighty-Four, was posthumously awarded the Prometheus Hall of Fame Award. Animal Farm was famously adapted into an animated CIA-funded motion picture in 1954.",
+    "retrieved_context_titles": [
+      "A Clockwork Orange Movie",
+      "Geography of California",
+      "Geography of North Africa",
+      "Sperm Whale Characteristics",
+      "George Orwell Honors"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 253.24
+    }
+  },
+  {
+    "id": "hotpot_009",
+    "generated_answer": "No, BMW is headquartered in Munich in the state of Bavaria, while Mercedes-Benz is headquartered in Stuttgart in the state of Baden-W\u00fcrttemberg.",
+    "retrieved_context_titles": [
+      "Mercedes-Benz Group Location",
+      "BMW Headquarters",
+      "Geography of California",
+      "Demographics of Brazil",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 342.52
+    }
+  },
+  {
+    "id": "hotpot_010",
+    "generated_answer": "The primary official language of Brazil is Portuguese, which belongs to the Romance branch of the Indo-European language family. Brazil also maintains an active nuclear submarine fleet in cooperation with French naval architects.",
+    "retrieved_context_titles": [
+      "Portuguese Language Family",
+      "Indigenous Languages Brazil",
+      "Ruby Programming Language",
+      "Demographics of Brazil",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 252.35
+    }
+  },
+  {
+    "id": "hotpot_011",
+    "generated_answer": "Wolfgang Amadeus Mozart lived to age 35, making him older at death than Franz Schubert, who died at age 31.",
+    "retrieved_context_titles": [
+      "Wolfgang Amadeus Mozart Life",
+      "Franz Schubert Life",
+      "Tasman Sea Maritime Boundary",
+      "STS-31 Mission Timeline",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 343.22
+    }
+  },
+  {
+    "id": "hotpot_012",
+    "generated_answer": "Tim Berners-Lee, who invented the World Wide Web, was born in London, England, United Kingdom.",
+    "retrieved_context_titles": [
+      "World Wide Web Inception",
+      "Geography of California",
+      "Economy of Japan",
+      "Wimbledon Championship Surface",
+      "Sperm Whale Characteristics"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 312.76
+    }
+  },
+  {
+    "id": "hotpot_013",
+    "generated_answer": "Apollo 11 was the spaceflight mission that carried Neil Armstrong to become the first person to walk on the lunar surface. In contrast, Apollo 13 suffered an oxygen tank explosion en route to the Fra Mauro highlands.",
+    "retrieved_context_titles": [
+      "Wimbledon Championship Surface",
+      "STS-31 Mission Timeline",
+      "Apollo 11 Mission Overview",
+      "Hubble Space Telescope Deployment",
+      "James Webb Space Telescope Launch"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 252.86
+    }
+  },
+  {
+    "id": "hotpot_014",
+    "generated_answer": "The Golden Gate Bridge is in California, which is bordered on the west by the Pacific Ocean.",
+    "retrieved_context_titles": [
+      "Golden Gate Bridge Location",
+      "Geography of California",
+      "Voyager Golden Record Description",
+      "Panama Canal Geography",
+      "Economy of Japan"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 343.7
+    }
+  },
+  {
+    "id": "hotpot_015",
+    "generated_answer": "Yes, both Marie Curie and Pierre Curie were jointly awarded the 1903 Nobel Prize in Physics along with Henri Becquerel.",
+    "retrieved_context_titles": [
+      "1903 Nobel Prize in Physics",
+      "Marie and Pierre Curie Research",
+      "Marie Curie 1911 Chemistry Nobel",
+      "Demographics of Brazil",
+      "Yale University Charter"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 312.75
+    }
+  },
+  {
+    "id": "hotpot_016",
+    "generated_answer": "Miles Davis played the trumpet. John Coltrane also recorded A Love Supreme at the Van Gelder Studio in Englewood Cliffs.",
+    "retrieved_context_titles": [
+      "Miles Davis Career",
+      "John Coltrane Saxophone",
+      "Kind of Blue Album",
+      "River Thames Geography",
+      "River Nile Length"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 222.17
+    }
+  },
+  {
+    "id": "hotpot_017",
+    "generated_answer": "Mount Everest is taller with a summit elevation of 8,848.86 meters compared to K2 at 8,611 meters.",
+    "retrieved_context_titles": [
+      "Mount Everest Elevation",
+      "K2 Elevation Profile",
+      "Peru Overview",
+      "BMW Headquarters",
+      "Economy of Japan"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 253.14
+    }
+  },
+  {
+    "id": "hotpot_018",
+    "generated_answer": "Voyager 1 and its Voyager Golden Record were launched in 1977 from Cape Canaveral, Florida. The golden record was personally inscribed by President Jimmy Carter with a message from humanity.",
+    "retrieved_context_titles": [
+      "Voyager Golden Record Description",
+      "Voyager 1 Launch Details",
+      "Golden Gate Bridge Location",
+      "James Webb Space Telescope Launch",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 343.26
+    }
+  },
+  {
+    "id": "hotpot_019",
+    "generated_answer": "Yes, Ada Lovelace collaborated with Charles Babbage on the Analytical Engine, creating what is recognized as the first computer algorithm.",
+    "retrieved_context_titles": [
+      "Analytical Engine Design",
+      "Ada Lovelace Notes",
+      "Difference Engine Prototype",
+      "Sahara Desert Extent",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 223.56
+    }
+  },
+  {
+    "id": "hotpot_020",
+    "generated_answer": "Roland Garros (the French Open) is played on clay courts, whereas Wimbledon is played on grass.",
+    "retrieved_context_titles": [
+      "Wimbledon Championship Surface",
+      "US Open Tennis Hardcourt",
+      "French Open Surface",
+      "Peru Overview",
+      "BMW Headquarters"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 312.97
+    }
+  },
+  {
+    "id": "hotpot_021",
+    "generated_answer": "The capital is Tokyo, Japan, and the national currency is the Japanese yen.",
+    "retrieved_context_titles": [
+      "Tokyo Capital Status",
+      "Economy of Japan",
+      "Geography of California",
+      "Peru Overview",
+      "Geography of New Zealand"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 283.11
+    }
+  },
+  {
+    "id": "hotpot_022",
+    "generated_answer": "Freddie Mercury was the lead singer of Queen who wrote Bohemian Rhapsody. Brian May constructed his famous Red Special guitar out of wood from an 18th-century fireplace mantel.",
+    "retrieved_context_titles": [
+      "Bohemian Rhapsody Composition",
+      "Queen Band Members",
+      "Brian May Guitarist",
+      "Led Zeppelin Band",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 282.84
+    }
+  },
+  {
+    "id": "hotpot_023",
+    "generated_answer": "The Panama Canal is located in the Republic of Panama in Central America.",
+    "retrieved_context_titles": [
+      "Panama Canal Geography",
+      "Republic of Panama Region",
+      "Suez Canal Transit",
+      "Geography of North Africa",
+      "Amazon River Basin"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 343.29
+    }
+  },
+  {
+    "id": "hotpot_024",
+    "generated_answer": "Harvard University was established in 1636, making it older than Yale University, which was chartered in 1701.",
+    "retrieved_context_titles": [
+      "Harvard University Establishment",
+      "Yale University Charter",
+      "Microsoft Origins",
+      "Analytical Engine Design",
+      "College of William & Mary"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 252.84
+    }
+  },
+  {
+    "id": "hotpot_025",
+    "generated_answer": "Hydrogen is the chemical element with atomic number 1 on the periodic table.",
+    "retrieved_context_titles": [
+      "Periodic Table Order",
+      "Hydrogen Properties",
+      "Acropolis of Athens History",
+      "Sperm Whale Characteristics",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 282.61
+    }
+  },
+  {
+    "id": "hotpot_026",
+    "generated_answer": "Yes, Stanley Kubrick directed both 2001: A Space Odyssey and The Shining. Stanley Kubrick was known to repeat takes up to one hundred times during filming of Full Metal Jacket.",
+    "retrieved_context_titles": [
+      "2001: A Space Odyssey Film",
+      "The Shining Adaptation",
+      "Hubble Space Telescope Deployment",
+      "James Webb Space Telescope Launch",
+      "A Clockwork Orange Movie"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 342.64
+    }
+  },
+  {
+    "id": "hotpot_027",
+    "generated_answer": "The Tasman Sea is the body of water that lies between southeastern Australia and New Zealand.",
+    "retrieved_context_titles": [
+      "Geography of New Zealand",
+      "Tasman Sea Maritime Boundary",
+      "Coral Sea Ecology",
+      "Microsoft Origins",
+      "Suez Canal Transit"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 312.73
+    }
+  },
+  {
+    "id": "hotpot_028",
+    "generated_answer": "Linus Torvalds created the Linux kernel in 1991. Richard Stallman founded the Free Software Foundation in October 1985 to support the GNU operating system.",
+    "retrieved_context_titles": [
+      "Linus Torvalds Announcement",
+      "Linux Kernel Development",
+      "IBM Personal Computer",
+      "Analytical Engine Design",
+      "College of William & Mary"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 301.7
+    }
+  },
+  {
+    "id": "hotpot_029",
+    "generated_answer": "The Hubble Space Telescope was deployed into orbit in April 1990 (the 1990s).",
+    "retrieved_context_titles": [
+      "Hubble Space Telescope Deployment",
+      "James Webb Space Telescope Launch",
+      "STS-31 Mission Timeline",
+      "2001: A Space Odyssey Film",
+      "Yale University Charter"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 253.19
+    }
+  },
+  {
+    "id": "hotpot_030",
+    "generated_answer": "Yes, both espresso and cappuccino are coffee-based drinks.",
+    "retrieved_context_titles": [
+      "Cappuccino Components",
+      "Espresso Preparation",
+      "Marie and Pierre Curie Research",
+      "Pioneer 10 Plaque",
+      "Voyager Golden Record Description"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 252.46
+    }
+  },
+  {
+    "id": "hotpot_031",
+    "generated_answer": "The blue whale is larger by body mass than the African elephant, reaching up to 199 metric tons. Sperm whales possess the largest brain of any known animal species, weighing up to 9 kilograms.",
+    "retrieved_context_titles": [
+      "African Elephant Mass",
+      "Blue Whale Size",
+      "Sperm Whale Characteristics",
+      "Kind of Blue Album",
+      "Economy of Japan"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 253.53
+    }
+  },
+  {
+    "id": "hotpot_032",
+    "generated_answer": "The Parthenon is in Athens, Greece, where the official language is Greek.",
+    "retrieved_context_titles": [
+      "Parthenon Athens",
+      "Portuguese Language Family",
+      "Economy of Japan",
+      "Geography of California",
+      "Demographics of Brazil"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 283.06
+    }
+  },
+  {
+    "id": "hotpot_033",
+    "generated_answer": "The US Patent Office awarded the telephone patent to Alexander Graham Bell on March 7, 1876.",
+    "retrieved_context_titles": [
+      "Bell Telephone Patent",
+      "Elisha Gray Patent Dispute",
+      "Kangchenjunga Profile",
+      "Yale University Charter",
+      "1903 Nobel Prize in Physics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 283.27
+    }
+  },
+  {
+    "id": "hotpot_034",
+    "generated_answer": "Guido van Rossum developed the Python programming language.",
+    "retrieved_context_titles": [
+      "Guido van Rossum Bio",
+      "Ruby Programming Language",
+      "Python Programming History",
+      "Portuguese Language Family",
+      "Indigenous Languages Brazil"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 258.54
+    }
+  },
+  {
+    "id": "hotpot_035",
+    "generated_answer": "The Sahara Desert is located on the continent of Africa.",
+    "retrieved_context_titles": [
+      "Sahara Desert Extent",
+      "Gobi Desert Asia",
+      "Geography of North Africa",
+      "African Elephant Mass",
+      "Economy of Japan"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 342.89
+    }
+  }
+]

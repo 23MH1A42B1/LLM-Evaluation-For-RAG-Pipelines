@@ -1,0 +1,492 @@
+[
+  {
+    "id": "hotpot_001",
+    "generated_answer": "Microsoft was founded on April 4, 1975, which is before Apple on April 1, 1976.",
+    "retrieved_context_titles": [
+      "Apple Inc. History",
+      "Microsoft Origins"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 128.43
+    }
+  },
+  {
+    "id": "hotpot_002",
+    "generated_answer": "Yes, both were American magazines.",
+    "retrieved_context_titles": [
+      "First for Women",
+      "Arthur's Magazine"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 113.07
+    }
+  },
+  {
+    "id": "hotpot_003",
+    "generated_answer": "Brooklyn.",
+    "retrieved_context_titles": [
+      "Midnight in Paris",
+      "Geography of New Zealand"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 82.67
+    }
+  },
+  {
+    "id": "hotpot_004",
+    "generated_answer": "The Beatles had four members, which is more than The White Stripes duo.",
+    "retrieved_context_titles": [
+      "The White Stripes Duo",
+      "The Beatles Lineup"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 172.55
+    }
+  },
+  {
+    "id": "hotpot_005",
+    "generated_answer": "Lima.",
+    "retrieved_context_titles": [
+      "Machu Picchu Sanctuary",
+      "Tokyo Capital Status"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 97.47
+    }
+  },
+  {
+    "id": "hotpot_006",
+    "generated_answer": "Yes, both worked at the Institute for Advanced Study in Princeton.",
+    "retrieved_context_titles": [
+      "J. Robert Oppenheimer IAS",
+      "Albert Einstein Career"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 83.14
+    }
+  },
+  {
+    "id": "hotpot_007",
+    "generated_answer": "The Nile is longer at approximately 6,650 kilometers compared to the Thames.",
+    "retrieved_context_titles": [
+      "River Nile Length",
+      "River Thames Geography"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 142.41
+    }
+  },
+  {
+    "id": "hotpot_008",
+    "generated_answer": "Prometheus Award.",
+    "retrieved_context_titles": [
+      "A Clockwork Orange Movie",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 0.0,
+      "correctness": 0,
+      "groundedness": 1,
+      "latency_ms": 159.55
+    }
+  },
+  {
+    "id": "hotpot_009",
+    "generated_answer": "No, BMW is in Bavaria and Mercedes-Benz is in Baden-W\u00fcrttemberg.",
+    "retrieved_context_titles": [
+      "Mercedes-Benz Group Location",
+      "BMW Headquarters"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 113.04
+    }
+  },
+  {
+    "id": "hotpot_010",
+    "generated_answer": "The official language of Brazil (Portuguese) belongs to the Indo-European language family.",
+    "retrieved_context_titles": [
+      "Portuguese Language Family",
+      "Indigenous Languages Brazil"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 172.69
+    }
+  },
+  {
+    "id": "hotpot_011",
+    "generated_answer": "Wolfgang Amadeus Mozart was older at death (35 years) than Franz Schubert (31 years).",
+    "retrieved_context_titles": [
+      "Wolfgang Amadeus Mozart Life",
+      "Franz Schubert Life"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 83.0
+    }
+  },
+  {
+    "id": "hotpot_012",
+    "generated_answer": "The inventor Tim Berners-Lee is from the United Kingdom.",
+    "retrieved_context_titles": [
+      "World Wide Web Inception",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 173.34
+    }
+  },
+  {
+    "id": "hotpot_013",
+    "generated_answer": "Information derived strictly from the provided text.",
+    "retrieved_context_titles": [
+      "Wimbledon Championship Surface",
+      "STS-31 Mission Timeline"
+    ],
+    "metrics": {
+      "recall": 0.0,
+      "correctness": 0,
+      "groundedness": 0,
+      "latency_ms": 142.58
+    }
+  },
+  {
+    "id": "hotpot_014",
+    "generated_answer": "The Pacific Ocean borders California where the Golden Gate Bridge is located.",
+    "retrieved_context_titles": [
+      "Golden Gate Bridge Location",
+      "Geography of California"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 172.78
+    }
+  },
+  {
+    "id": "hotpot_015",
+    "generated_answer": "Yes, both Marie Curie and Pierre Curie received the 1903 Nobel Prize in Physics.",
+    "retrieved_context_titles": [
+      "1903 Nobel Prize in Physics",
+      "Marie and Pierre Curie Research"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 142.69
+    }
+  },
+  {
+    "id": "hotpot_016",
+    "generated_answer": "Miles Davis played the trumpet.",
+    "retrieved_context_titles": [
+      "Miles Davis Career",
+      "John Coltrane Saxophone"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 173.01
+    }
+  },
+  {
+    "id": "hotpot_017",
+    "generated_answer": "Mount Everest is taller at 8,848.86 meters.",
+    "retrieved_context_titles": [
+      "Mount Everest Elevation",
+      "K2 Elevation Profile"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 112.11
+    }
+  },
+  {
+    "id": "hotpot_018",
+    "generated_answer": "The spacecraft was launched in 1977 from Cape Canaveral.",
+    "retrieved_context_titles": [
+      "Voyager Golden Record Description",
+      "Voyager 1 Launch Details"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 128.5
+    }
+  },
+  {
+    "id": "hotpot_019",
+    "generated_answer": "Yes, Ada Lovelace collaborated with Charles Babbage on the Analytical Engine.",
+    "retrieved_context_titles": [
+      "Analytical Engine Design",
+      "Ada Lovelace Notes"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 157.11
+    }
+  },
+  {
+    "id": "hotpot_020",
+    "generated_answer": "Roland Garros is played on red clay courts.",
+    "retrieved_context_titles": [
+      "Wimbledon Championship Surface",
+      "US Open Tennis Hardcourt"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 167.59
+    }
+  },
+  {
+    "id": "hotpot_021",
+    "generated_answer": "The currency of Japan is the Japanese yen.",
+    "retrieved_context_titles": [
+      "Tokyo Capital Status",
+      "Economy of Japan"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 144.45
+    }
+  },
+  {
+    "id": "hotpot_022",
+    "generated_answer": "The lead singer who wrote Bohemian Rhapsody was Freddie Mercury.",
+    "retrieved_context_titles": [
+      "Bohemian Rhapsody Composition",
+      "Queen Band Members"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 82.83
+    }
+  },
+  {
+    "id": "hotpot_023",
+    "generated_answer": "The Panama Canal is located in Central America.",
+    "retrieved_context_titles": [
+      "Panama Canal Geography",
+      "Republic of Panama Region"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 97.6
+    }
+  },
+  {
+    "id": "hotpot_024",
+    "generated_answer": "Harvard University was founded earlier in 1636.",
+    "retrieved_context_titles": [
+      "Harvard University Establishment",
+      "Yale University Charter"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 173.01
+    }
+  },
+  {
+    "id": "hotpot_025",
+    "generated_answer": "Hydrogen has atomic number 1.",
+    "retrieved_context_titles": [
+      "Periodic Table Order",
+      "Hydrogen Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 143.28
+    }
+  },
+  {
+    "id": "hotpot_026",
+    "generated_answer": "Yes, Stanley Kubrick directed both 2001: A Space Odyssey and The Shining.",
+    "retrieved_context_titles": [
+      "2001: A Space Odyssey Film",
+      "The Shining Adaptation"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 142.28
+    }
+  },
+  {
+    "id": "hotpot_027",
+    "generated_answer": "The Tasman Sea lies between Australia and New Zealand.",
+    "retrieved_context_titles": [
+      "Geography of New Zealand",
+      "Tasman Sea Maritime Boundary"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 173.09
+    }
+  },
+  {
+    "id": "hotpot_028",
+    "generated_answer": "Linus Torvalds created the Linux kernel.",
+    "retrieved_context_titles": [
+      "Linus Torvalds Announcement",
+      "Linux Kernel Development"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 143.02
+    }
+  },
+  {
+    "id": "hotpot_029",
+    "generated_answer": "The Hubble Space Telescope was deployed in the 1990s (1990).",
+    "retrieved_context_titles": [
+      "Hubble Space Telescope Deployment",
+      "James Webb Space Telescope Launch"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 173.06
+    }
+  },
+  {
+    "id": "hotpot_030",
+    "generated_answer": "Yes, both are coffee-based beverages.",
+    "retrieved_context_titles": [
+      "Cappuccino Components",
+      "Espresso Preparation"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 86.9
+    }
+  },
+  {
+    "id": "hotpot_031",
+    "generated_answer": "The blue whale is larger by body mass.",
+    "retrieved_context_titles": [
+      "African Elephant Mass",
+      "Blue Whale Size"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 173.01
+    }
+  },
+  {
+    "id": "hotpot_032",
+    "generated_answer": "The official language of Greece where the Parthenon stands is Greek.",
+    "retrieved_context_titles": [
+      "Parthenon Athens",
+      "Portuguese Language Family"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 113.19
+    }
+  },
+  {
+    "id": "hotpot_033",
+    "generated_answer": "The patent was awarded to Alexander Graham Bell in March 1876.",
+    "retrieved_context_titles": [
+      "Bell Telephone Patent",
+      "Elisha Gray Patent Dispute"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 128.21
+    }
+  },
+  {
+    "id": "hotpot_034",
+    "generated_answer": "Guido van Rossum developed Python.",
+    "retrieved_context_titles": [
+      "Guido van Rossum Bio",
+      "Ruby Programming Language"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 157.87
+    }
+  },
+  {
+    "id": "hotpot_035",
+    "generated_answer": "The Sahara Desert is located in Africa.",
+    "retrieved_context_titles": [
+      "Sahara Desert Extent",
+      "Gobi Desert Asia"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 97.49
+    }
+  }
+]

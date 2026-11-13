@@ -1,0 +1,6 @@
+{
+  "dataset_size": 35,
+  "llm_judge_model": "gpt-4o-mini-2024-07-18",
+  "pipeline_a_embedder": "sentence-transformers/all-MiniLM-L6-v2",
+  "pipeline_b_embedder": "sentence-transformers/all-MiniLM-L6-v2"
+}

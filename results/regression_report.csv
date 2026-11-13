@@ -1,0 +1,5 @@
+metric,baseline,candidate,delta,flag
+Recall,0.8,0.9143,0.1143,IMPROVE
+Correctness,0.9429,1.0,0.0571,IMPROVE
+Groundedness,0.9143,0.6571,-0.2572,REGRESS
+P95_Latency,173.07,343.27,170.2,REGRESS
