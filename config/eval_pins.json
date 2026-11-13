@@ -4,3 +4,4 @@
   "pipeline_a_embedder": "sentence-transformers/all-MiniLM-L6-v2",
   "pipeline_b_embedder": "sentence-transformers/all-MiniLM-L6-v2"
 }
+

@@ -97,3 +97,4 @@ def generate_regression_report(
             writer.writerow(row)
 
     return rows
+

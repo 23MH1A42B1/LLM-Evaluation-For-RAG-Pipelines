@@ -225,3 +225,4 @@ healthcheck:
 | **`demonstrated-regression`** | `results/regression_report.csv` | **PASS** | Candidate Correctness $\ge$ Baseline, Groundedness $< 0$, P95 Latency $> 0$, `REGRESS` flag present. |
 | **`docker-compose-setup`** | `docker-compose.yml` | **PASS** | Defines `qdrant` vector database with native HTTP healthcheck `/healthz`. |
 | **`env-example-setup`** | `.env.example` | **PASS** | Documents all variables without exposing any real `sk-...` API keys. |
+

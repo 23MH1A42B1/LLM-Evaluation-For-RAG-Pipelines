@@ -257,3 +257,4 @@ def test_core_req_10_env_example_setup():
     # Verify it does NOT contain exact/real sk-... API keys
     import re
     assert not re.search(r"sk-[a-zA-Z0-9]{20,}", content), "Found exact real sk-... API key in .env.example!"
+
